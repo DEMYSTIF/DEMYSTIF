@@ -70,10 +70,10 @@ I am an experienced full-stack engineer with demonstrated skills in managing web
 </div>
 
 
-### Stats
+<!-- ### Stats -->
 
 <div>
-<a href="https://github.com/DEMYSTIF" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEMYSTIF&langs_count=10&title_color=84cc16&text_color=ffffff&icon_color=0891b2&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-<a href="#"><img src="assets/vi.gif" width="480" align="right"/></a>
+<!-- <a href="https://github.com/DEMYSTIF" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEMYSTIF&langs_count=10&title_color=84cc16&text_color=ffffff&icon_color=0891b2&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> -->
+<a href="#"><img src="assets/vi.gif" align="right"/></a>
 </div>
 
