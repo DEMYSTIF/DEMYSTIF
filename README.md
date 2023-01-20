@@ -45,9 +45,8 @@ I am an experienced full-stack engineer with demonstrated skills in managing web
 <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="assets/icons/flutter.svg" width="36" height="36" alt="Flutter" /></a>
 <a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="assets/icons/dart.svg" width="36" height="36" alt="Dart" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="assets/icons/python.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://www.prisma.io/docs" target="_blank" rel="noreferrer"><img src="assets/icons/prisma.svg" width="36" height="36" alt="Prisma" /></a>
 <a href="https://polygon.technology/" target="_blank" rel="noreferrer"><img src="assets/icons/polygon.svg" width="36" height="36" alt="Polygon" /></a>
-<a href="https://portal.arbitrum.one/" target="_blank" rel="noreferrer"><img src="assets/icons/arbitrum.svg" width="36" height="36" alt="Arbitrum" /></a>
-<a href="https://www.optimism.io/" target="_blank" rel="noreferrer"><img src="assets/icons/optimism.svg" width="36" height="36" alt="Optimism" /></a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="assets/icons/tailwindcss.svg" width="36" height="36" alt="TailwindCSS" /></a>
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="assets/icons/bootstrap.svg" width="36" height="36" alt="Bootstrap" /></a>
 <a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="assets/icons/mui.svg" width="36" height="36" alt="MUI" /></a>
@@ -70,10 +69,10 @@ I am an experienced full-stack engineer with demonstrated skills in managing web
 </div>
 
 
-<!-- ### Stats -->
+<!-- ### Misc -->
 
 <div>
-<!-- <a href="https://github.com/DEMYSTIF" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEMYSTIF&langs_count=10&title_color=84cc16&text_color=ffffff&icon_color=0891b2&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> -->
+<a href="#"><img src="assets/cait.gif" align="left"/></a>
 <a href="#"><img src="assets/vi.gif" align="right"/></a>
 </div>
 
