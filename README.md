@@ -27,7 +27,7 @@ I am an experienced full-stack engineer with demonstrated skills in managing web
 <a href="https://nuxt.com/" target="_blank" rel="noreferrer"><img src="assets/icons/nuxt.svg" width="36" height="36" alt="Nuxt" /></a>
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="assets/icons/express.svg" width="36" height="36" alt="Express" /></a>
 <a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"><img src="assets/icons/nestjs.svg" width="36" height="36" alt="NestJS" /></a>
-<a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="assets/icons/graphql.svg" width="36" height="36" alt="GraphQL" /></a>
+<!-- <a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="assets/icons/graphql.svg" width="36" height="36" alt="GraphQL" /></a> -->
 <a href="https://ethers.io" target="_blank" rel="noreferrer"><img src="assets/icons/ethers.svg" width="36" height="36" alt="Ethers" /></a>
 <a href="https://web3js.readthedocs.io/" target="_blank" rel="noreferrer"><img src="assets/icons/web3js.svg" width="36" height="36" alt="Web3JS" /></a>
 <a href="https://hardhat.org/" target="_blank" rel="noreferrer"><img src="assets/icons/hardhat.svg" width="36" height="36" alt="Hardhat" /></a>
@@ -36,6 +36,7 @@ I am an experienced full-stack engineer with demonstrated skills in managing web
 <a href="https://docs.infura.io/infura/" target="_blank" rel="noreferrer"><img src="assets/icons/infura.svg" width="36" height="36" alt="Infura" /></a>
 <a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="assets/icons/metamask.svg" width="36" height="36" alt="MetaMask" /></a>
 <a href="https://ipfs.io/" target="_blank" rel="noreferrer"><img src="assets/icons/ipfs.svg" width="36" height="36" alt="IPFS" /></a>
+<a href="https://polygon.technology/" target="_blank" rel="noreferrer"><img src="assets/icons/polygon.svg" width="36" height="36" alt="Polygon" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="assets/icons/mongodb.svg" width="36" height="36" alt="MongoDB" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="assets/icons/postgresql.svg" width="36" height="36" alt="PostgreSQL" /></a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="assets/icons/firebase.svg" width="36" height="36" alt="Firebase" /></a>
@@ -46,14 +47,13 @@ I am an experienced full-stack engineer with demonstrated skills in managing web
 <a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="assets/icons/dart.svg" width="36" height="36" alt="Dart" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="assets/icons/python.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://www.prisma.io/docs" target="_blank" rel="noreferrer"><img src="assets/icons/prisma.svg" width="36" height="36" alt="Prisma" /></a>
-<a href="https://polygon.technology/" target="_blank" rel="noreferrer"><img src="assets/icons/polygon.svg" width="36" height="36" alt="Polygon" /></a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="assets/icons/tailwindcss.svg" width="36" height="36" alt="TailwindCSS" /></a>
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="assets/icons/bootstrap.svg" width="36" height="36" alt="Bootstrap" /></a>
 <a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="assets/icons/mui.svg" width="36" height="36" alt="MUI" /></a>
 <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="assets/icons/sass.svg" width="36" height="36" alt="Sass" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="assets/icons/css3.svg" width="36" height="36" alt="CSS3" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="assets/icons/html5.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="assets/icons/figma.svg" width="36" height="36" alt="Figma" /></a>
+<!-- <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="assets/icons/figma.svg" width="36" height="36" alt="Figma" /></a> -->
 </div>
 
 
